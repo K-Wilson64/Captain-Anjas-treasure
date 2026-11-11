@@ -1,0 +1,41 @@
+body {
+    background-color: #103D43;
+    color: #EEE7FA;
+    font-family: Georgia, "Times New Roman", serif;
+    padding: 25px;
+}
+
+h1 {
+    color: #EBC779;
+    font-size: 36px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px #071F25;
+}
+
+p {
+    color: #EEE7FA;
+    font-size: 18px;
+    line-height: 1.7;
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 25px auto;
+    border: 2px solid #EBC779;
+    border-radius: 8px;
+    box-shadow: 0 0 25px #8266AA;
+}
+
+a {
+    color: #EBC779;
+    font-size: 18px;
+}
+
+a:hover {
+    color: #FFFFFF;
+}
